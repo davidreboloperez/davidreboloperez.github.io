@@ -1,0 +1,2 @@
+call C:\Users\DavidRebollo\Anaconda3\Scripts\activate.bat 
+jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --execute C:\Users\DavidRebollo\0.InstagramScrapping\prod\IGAI_BasicScan_Pipeline.ipynb
